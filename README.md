@@ -1,1 +1,1 @@
-# php-symfony4-book-codes-security-05-access-denied-exception
+# php-symfony4-book-codes-security-06-access-denied-exception

@@ -1,2 +1,2 @@
-logout:
-    path: /logout
+app_logout:
+  path: /logout
